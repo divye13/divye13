@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @divye13
+- 👋 Hi, I’m @divyeshjn
 - 👀 I’m interested in Application development and Cyber Security.
 - 🌱 I’m currently learning DSA in C++, Flutter Development.
 - 💞️ I’m looking to collaborate on Cyber Security and Flutter projects.
